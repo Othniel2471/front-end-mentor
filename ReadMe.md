@@ -22,8 +22,8 @@ A simple static page site that i developed using pure html and css.
 This is a screenshot of the code, not much just the variables i used to accomplish the design.
 
 ### Links
-- Solution URL: []()
-- lIVE Site URL: []()
+- Solution URL: [https://github.com/Othniel2471/front-end-mentor](https://github.com/Othniel2471/front-end-mentor)
+- Live Site URL: [https://dashing-scone-d6ed01.netlify.app/](https://dashing-scone-d6ed01.netlify.app/)
 
 ## My process
 - Semantic HTML5 markup
